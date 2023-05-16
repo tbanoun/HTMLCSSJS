@@ -1,0 +1,24 @@
+.container{
+    margin: auto;
+    height: 300px;
+    width: 300px;
+}
+.cl-black{
+    background-color: black;
+    color: white;
+}
+.cl-white{
+    background-color: white;
+    color: black;
+}
+
+.btn-center{
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+}
+.container h1{
+    text-align: center;
+    align-items: center;
+    margin: auto;
+}
